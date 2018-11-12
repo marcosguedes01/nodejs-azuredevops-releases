@@ -1,0 +1,14 @@
+{
+  "name": "azure-devops-release-report",
+  "version": "1.0.0",
+  "description": "Create release reports from Azure DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Accenture",
+  "license": "ISC",
+  "dependencies": {
+    "azure-devops-node-api": "^7.0.0"
+  }
+}
